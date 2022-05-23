@@ -1,5 +1,5 @@
 {
-    "name": "k-adam/env-editor",
+    "name": "envatic/env",
     "description": ".env editor library",
     "type": "library",
     "keywords": [
@@ -8,8 +8,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Adam Kecskes",
-            "email": "kecskes.adam@outlook.com"
+            "name": "Stephen Isaac",
+            "email": "ofuzak@gmail.com"
         }
     ],
     "autoload": {
